@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/13333221/how-to-change-value-of-process-env-port-in-node-js
+
+set PORT=1234
+node server.js
