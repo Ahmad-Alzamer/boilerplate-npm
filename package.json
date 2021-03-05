@@ -3,6 +3,7 @@
 	"author": "Ahmad Alzamer",
 	"description": "A test project added as part of the FreeCodeCamp API/Microservice certificate course",
 	"keywords": ["freecodecamp", "certificate", "API and Microservice"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
