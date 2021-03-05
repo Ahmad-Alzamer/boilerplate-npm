@@ -4,6 +4,7 @@
 	"description": "A test project added as part of the FreeCodeCamp API/Microservice certificate course",
 	"keywords": ["freecodecamp", "certificate", "API and Microservice"],
 	"license": "MIT",
+	"version": "0.1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
